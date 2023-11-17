@@ -2,6 +2,7 @@
 
 /**
  * interactive - returns true if shell is interactive mode
+ * @info - Parameter 1
  */
 int interactive(info_t *info)
 {
